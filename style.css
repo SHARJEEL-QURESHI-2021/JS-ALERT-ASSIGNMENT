@@ -1,0 +1,17 @@
+.body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    font-size: xx-large;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+.anker{
+    display: block;
+    text-decoration: none;
+    font-size: xx-large;
+    color: #fff;
+}
